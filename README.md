@@ -1,5 +1,6 @@
-# 「hoge」に自分のGitHubのアカウント名を入力
-https://github-readme-stats.vercel.app/api?username=beeftongue551&count_private=true&show_icons=true&theme=dracula
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeftongue551&theme=dracula)
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeftongue551&layout=compact&theme=dracula" />
+
 
 <!--
 **beeftongue551/beeftongue551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
