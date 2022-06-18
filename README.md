@@ -1,3 +1,4 @@
+# 「hoge」に自分のGitHubのアカウント名を入力
 https://github-readme-stats.vercel.app/api?username=beeftongue551&count_private=true&show_icons=true&theme=dracula
 
 <!--
