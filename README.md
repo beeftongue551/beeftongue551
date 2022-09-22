@@ -1,5 +1,12 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeftongue551&theme=dracula)
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeftongue551&layout=compact&theme=dracula" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeftongue551&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=beeftongue551&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=beeftongue551&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 <!--
